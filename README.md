@@ -22,10 +22,10 @@ This project is a job matching application that reads jobseekers and job listing
 
 1. **Clone the Repository**
    '''
-
+   git clone https://github.com/appletreecy/job_match_task.git
    '''
 
-Usage
+## Usage
 
 1. Prepare CSV files
    `jobseekers.csv`: Contains jobseeker information
@@ -37,7 +37,7 @@ Usage
 
    This will generate job recommedations and output them to the console.
 
-Testing
+## Testing
 
 1. Run Unit Tests
    Ensure that your `test_main_module.py` file is in the same directory as your application code and run
