@@ -1,0 +1,11 @@
+id,title,required_skills
+1,Ruby Developer,"Ruby, SQL, Problem Solving"
+2,Frontend Developer,"JavaScript, HTML/CSS, React, Teamwork"
+3,Backend Developer,"Java, SQL, Node.js, Problem Solving"
+4,Fullstack Developer,"JavaScript, HTML/CSS, Node.js, Ruby, SQL, Communication"
+5,Machine Learning Engineer,"Python, Machine Learning, Adaptability"
+6,Cloud Architect,"Cloud Computing, Python, Communication"
+7,Data Analyst,"Python, SQL, Machine Learning, Adaptability"
+8,Web Developer,"HTML/CSS, JavaScript, Ruby, Teamwork"
+9,Python Developer,"Python, SQL, Problem Solving, Self Motivated"
+10,JavaScript Developer,"JavaScript, React, Node.js, Self Motivated"
